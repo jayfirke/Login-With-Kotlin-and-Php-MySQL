@@ -1,4 +1,4 @@
-package com.digimva.epoi
+package com.firke.epoi
 
 import android.annotation.SuppressLint
 import android.content.Intent
